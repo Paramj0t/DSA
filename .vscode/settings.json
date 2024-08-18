@@ -1,0 +1,12 @@
+{
+	"files.associations": {
+		"*.ejs": "html",
+		"algorithm": "cpp",
+		"random": "cpp",
+		"numeric": "cpp",
+		"vector": "cpp",
+		"bitset": "cpp",
+		"iostream": "cpp"
+	},
+	"liveServer.settings.port": 3001
+}
